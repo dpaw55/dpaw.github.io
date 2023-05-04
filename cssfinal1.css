@@ -1,0 +1,9 @@
+/* Set a light green background on all pages */
+body {
+  background-color: #C8E6C9;
+}
+
+/* Set dark green font on page 1 */
+.page1 {
+  color: #1B5E20;
+}
